@@ -1,6 +1,6 @@
 package com.jamal.bugstar.api
 
-import com.jamal.bugstar.BASE_URL
+import com.jamal.bugstar.utils.BASE_URL
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 

@@ -1,7 +1,7 @@
 package com.jamal.bugstar.api
 
-import com.jamal.bugstar.ANSWERS_ENDPOINT
-import com.jamal.bugstar.QUESTIONS_ENDPOINT
+import com.jamal.bugstar.utils.ANSWERS_ENDPOINT
+import com.jamal.bugstar.utils.QUESTIONS_ENDPOINT
 import com.jamal.bugstar.models.ItemsAnswers
 import com.jamal.bugstar.models.ItemsQuestions
 import retrofit2.Response

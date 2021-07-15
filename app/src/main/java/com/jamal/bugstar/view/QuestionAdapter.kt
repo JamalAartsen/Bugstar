@@ -1,4 +1,4 @@
-package com.jamal.bugstar
+package com.jamal.bugstar.view
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

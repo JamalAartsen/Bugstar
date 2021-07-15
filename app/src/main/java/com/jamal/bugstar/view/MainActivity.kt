@@ -1,4 +1,4 @@
-package com.jamal.bugstar
+package com.jamal.bugstar.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
